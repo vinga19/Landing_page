@@ -1,0 +1,3 @@
+Criação de uma landing_page simples 
+
+Coleta de emails para mailchimp, pixel do facebook e google tag.
